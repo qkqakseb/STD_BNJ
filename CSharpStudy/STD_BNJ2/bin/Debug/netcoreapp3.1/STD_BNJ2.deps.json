@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "STD_BNJ2/1.0.0": {
+        "runtime": {
+          "STD_BNJ2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STD_BNJ2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

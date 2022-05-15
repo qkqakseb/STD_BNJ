@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\bin\Debug\netcoreapp3.1\STD_BNJ2.exe
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\bin\Debug\netcoreapp3.1\STD_BNJ2.deps.json
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\bin\Debug\netcoreapp3.1\STD_BNJ2.runtimeconfig.json
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\bin\Debug\netcoreapp3.1\STD_BNJ2.runtimeconfig.dev.json
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\bin\Debug\netcoreapp3.1\STD_BNJ2.dll
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\bin\Debug\netcoreapp3.1\STD_BNJ2.pdb
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\obj\Debug\netcoreapp3.1\STD_BNJ2.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\obj\Debug\netcoreapp3.1\STD_BNJ2.AssemblyInfo.cs
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\obj\Debug\netcoreapp3.1\STD_BNJ2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\obj\Debug\netcoreapp3.1\STD_BNJ2.dll
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\obj\Debug\netcoreapp3.1\STD_BNJ2.pdb
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\obj\Debug\netcoreapp3.1\STD_BNJ2.genruntimeconfig.cache
+C:\Users\pc\source\repos\STD_BNJ2\STD_BNJ2\obj\Debug\netcoreapp3.1\STD_BNJ2.csproj.AssemblyReference.cache
